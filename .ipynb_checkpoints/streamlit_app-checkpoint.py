@@ -3,9 +3,6 @@ import streamlit as st
 import pickle
 import numpy as np
 import pandas as pd
-from sklearn.compose import ColumnTransformer
-from sklearn.pipeline import Pipeline
-from sklearn.ensemble import RandomForestClassifier
 
 
 # Title of the webpage
