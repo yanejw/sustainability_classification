@@ -3,7 +3,6 @@ import streamlit as st
 import pickle
 import numpy as np
 import pandas as pd
-import sklearn
 
 # Title of the webpage
 st.title('Sustainability Classification for Fashion Products')
